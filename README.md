@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello 👋
+My name is Jason, and I recently graduated from the University of Toronto, where I studied Statistical Machine Learning and Data Science. 
 
+- I'm interested in everything about data and data science.
+- I'm currently looking for a position in Data Analytics or Data Science.
+
+## LinkedIn: 
+https://www.linkedin.com/in/kuei-sheng-jason-hou/
 <!--
 **JasonHouHou/JasonHouHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
