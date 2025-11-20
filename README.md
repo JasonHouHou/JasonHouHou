@@ -4,6 +4,16 @@ My name is Jason, and I recently graduated from the University of Toronto, where
 - I'm interested in everything about data and data science.
 - I'm currently looking for a position in Data Analytics or Data Science.
 
+## Data Science Project:
+### Cats and Dogs Images Classification (Deep Learning)
+- Built and trained CNN models to classify 8,000 cat and dog images, achieving up to 99.5% accuracy with VGG16
+transfer learning.
+- Designed and experimented with multiple architectures, including 3-layer CNN, deep CNN, ResNet, and VGG16, and
+applied Batch Normalization, Dropout, and L2 Regularization to improve performance and prevent overfitting.
+- Evaluated each model using training/validation plots and confusion matrices, and iteratively refined architectures
+based on performance diagnostics.
+
+
 ## Work Experience (Total 2 Years)
 ### Celestica Inc. - Data Analyst Intern (16 Months)
 - Managed a relational database on Azure using SQL, and created a visualization report using Power BI and Excel to present it to more than 30 managers.
