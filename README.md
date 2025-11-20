@@ -10,10 +10,14 @@ My name is Jason, and I recently graduated from the University of Toronto, where
 - Built a Power BI Dashboard to track company KPIs and transformed data into insights to report to respective managers.
 - Automated complex recurrent report using Excal VBA (Macro) and Python, which reduced manual work by 70% and improved consistency and efficiency.
   
-Skills Used: SQL, Python, Azure Database, Excel, Excel VBA, Data Visualization, Automation, Communication, Time Management, Cross-Function Team skills
+Skills: SQL, Python, Azure Database, Excel, Excel VBA, Data Visualization, Automation, Communication, Time Management, Cross-Function Team skills
 
-
-- Skills Used: 
+### Ontario Ministry of Education - IT QA Assistant (8 Months)
+- Developed a Vacation Calendar on SharePoint using Power Automate to streamline the vacation approval workflow and ensure calendar visibility for the whole department.
+- Created reports by organizing and extracting data to Excel to help make data-driven decisions.
+- Monitored over 10 ongoing projects, ensuring adherence to the government's standards by collaborating with the PMO Leads, Project Manager, and Business Owners.
+  
+Skills: Excel, Data Reporting, Data Visualization, SharePoint, Power Automate, Communication, Time Management
 ## LinkedIn: 
 https://www.linkedin.com/in/kuei-sheng-jason-hou/
 <!--
